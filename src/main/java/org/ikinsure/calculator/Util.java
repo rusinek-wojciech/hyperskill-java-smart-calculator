@@ -1,4 +1,4 @@
-package org.ikinsure.hard.calculator;
+package org.ikinsure.calculator;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
